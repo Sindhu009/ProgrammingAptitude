@@ -1,4 +1,4 @@
-package com.xworkz.patternProblems;
+package com.xworkz.paternProblems;
 
 public class RightAngle {
 	public static void main(String[] args) {

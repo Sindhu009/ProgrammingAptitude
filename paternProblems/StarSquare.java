@@ -1,4 +1,4 @@
-package com.xworkz.patternProblems;
+package com.xworkz.paternProblems;
 
 public class StarSquare {
 	public static void main(String[] args) {
@@ -19,4 +19,5 @@ public class StarSquare {
 		}
 
 	}
+	
 }
